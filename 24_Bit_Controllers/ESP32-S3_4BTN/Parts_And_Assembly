@@ -1,5 +1,4 @@
 ESP32-S3 Super Mini:
-10 µF ceramic (5V–GND, near 5V pin).
 0.1 µF ceramic (3.3V–GND, near 3.3V pin).
 
 MCP1825S-5002:
@@ -11,15 +10,14 @@ TXB0108PWR:
 0.1 µF ceramic (VCCB–GND, near pin 14, 5V).
 
 ADS1220:
-0.1 µF ceramic (AVDD–AVSS, near pin 10).
-0.1 µF ceramic (DVDD–AVSS, near pin 7).
 1 µF ceramic (REFP0–REFN0, near pin 1).
 
 SSD1306:
 0.1 µF ceramic (VCC–GND, near VCC pin).
 
-other parts needed 
 2x 2 pin dip switches
 4x 16pin usb c female
 up to 4x 4pin usb c male pigtails
 2x 10k ohm resistors
+
+
