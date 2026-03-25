@@ -1,4 +1,5 @@
 # Jack-Pneumatic
+![](Fully_Assembled.jpeg)
 pneumatic mod for sim jack / simsonn pedal
 
 Ever want more realism and versatility out of your Sim Jack Pedals or Simsonn Pedals?
