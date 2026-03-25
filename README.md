@@ -22,4 +22,4 @@ https://imgur.com/gallery/pneumatic-mod-sim-jack-simsonn-pedals-RCznx2G
 
 * All Parts Listed in tutorial were purchased via aliexpress and can be repalced with higher quality parts 
 
-* I bare no responsibility if you damage any equipment or hurt yourself in the making of this project. 
+* I bare no responsibility if you damage any equipment or if hurt yourself in the making of this project. 
