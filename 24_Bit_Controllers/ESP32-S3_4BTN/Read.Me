@@ -3,3 +3,22 @@ the 24 bit ads1220 adds serious versatility to the esp32-s3 allowing for accurac
 this version of the 4 axis controller is for the more advanced or daring, and should not be attempted if you are not willing to take some risks. 
 
 *Do not hold me accountable if you try and fail*
+
+Purpose of this controller is to have onboard calibration and averaging filter. 
+This makes it possible to maintain calibration across all games, preserving consistency
+PSI Calculations on calibration screen make it possible to have consistent psi reading if over tie you have a small leak of air.
+lets say you like 4.5 psi but you want to try 7 or 10 psi, the psi calculator will make it easy to dial in what ever you like.
+Calibration is activated per individual Axis and have min max values
+Min and Max have timers so you have a chance to set your deadzones or lack there of
+Averaging filter allows for 0-9 reading before a number is spit out, giving better stability at the sacrafice of speed
+
+Screen 0 - Averaging Filter
+Screen 1 - Current Calibration and PSI calculation
+Screen 2 - Min Calibration * must be activated by the calibration button 
+Screen 3 - Max Calibration
+
+SD1306 screen has 4 built in buttons
+/\ Endless scroll selection for axis you want to calibrate
+\/ Next Page 
+# Calibrate selection or change avg filter 
+* Reset to default values
