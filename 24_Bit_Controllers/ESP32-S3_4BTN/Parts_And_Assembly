@@ -21,4 +21,12 @@ up to 4x 4pin usb c male pigtails
 2x 10k ohm resistors
 SD1306 with 4 buttons built in
 
+** usb-c pigtail and pressure transducer connector wiring **
+Pigtail    Connector
+---------------------
+red        red
+black      black
+green      green
+white      green
+
 
