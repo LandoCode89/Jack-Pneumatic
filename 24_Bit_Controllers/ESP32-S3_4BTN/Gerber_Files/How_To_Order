@@ -1,0 +1,11 @@
+For those who are willing to do some soldering, please feel free to try out my design. 
+
+Step 1 Download the Gerber File, BOM file, and Pick And Place file
+Step 2 Go to JLCPCB.com
+Step 3 upload gerber zip in the order section
+Step 4 select PCB Assembly
+Step 5 Hit next until it asks for you to upload the BOM File and CPL file
+Step 6 ONLY HAVE USB-TYPE-C-018 and TXB0108PWR Selected to keep cost to a minimum
+Step 7 assess order and choose appropriate shipping to keep cost down
+Step 8 Anxiously wait for a few weeks till your order arrives
+Step 9 Follow Assembly guide to finish controller and enjoy
