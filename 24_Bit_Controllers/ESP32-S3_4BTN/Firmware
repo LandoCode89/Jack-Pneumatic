@@ -1,0 +1,11 @@
+No Need for Arduino IDE, just upload this firmware to you esp and enjoy
+
+Step 1 Doanload the latest version of this firmware
+Step 2 go to https://espressif.github.io/esptool-js/
+Step 3 Connect ESP32-S3 to your computer
+Step 4 Enter Bootloader mode by holding BOOT and Quick Pressing RESET on the esp32
+Step 5 On the website hit connect and select the esp32-s3
+Step 6 Select the file to upload 
+Step 7 Change Flash Address to 0x0
+Step 8 Hit Program
+Step 9 Enojy 
